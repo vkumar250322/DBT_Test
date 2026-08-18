@@ -3,7 +3,3 @@ Adress
 Phone No:
 Email:
 
-Address_1
-Address_2
-Address_3
-
